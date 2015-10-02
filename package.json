@@ -1,5 +1,5 @@
 {
-  "name": "netLocker",
+  "name": "iotLocker",
   "version": "1.0.0",
   "description": "a wireless locker",
   "main": "uiserver.js",
