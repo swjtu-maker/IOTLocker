@@ -1,24 +1,14 @@
 {
-  "name": "iotLocker",
+  "name": "iotlock",
   "version": "1.0.0",
-  "description": "a wireless locker",
+  "description": "a wireless lock",
   "main": "uiserver.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/swjtu-maker/netLocker.git"
-  },
-  "keywords": [
-    "locker"
-  ],
   "author": "yuhui,xiaoweibo,lijun",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/swjtu-maker/netLocker/issues"
-  },
-  "homepage": "https://github.com/swjtu-maker/netLocker",
+  "homepage": "https://github.com/swjtu-maker/iotlock",
   "dependencies": {
     "express": "^4.13.3"
   }
