@@ -17,7 +17,7 @@ const char* password = "swjtumaker";
 WiFiServer server(80);
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(2400);
   delay(10);
 
   // prepare GPIO2
